@@ -24,8 +24,11 @@
 ---
 
 ## 🔭 Projects
+- TheZora - A Studio Management Software | Seamless Management | Face-Rec
 - Snake Game — Writing cleaner, more structured JavaScript Connecting logic with UI effectively.
 - Web App - Automated Attendance System for Rural Areas
+- Netflix Clone
+- UltraEdit Clone
 
 ---
 
